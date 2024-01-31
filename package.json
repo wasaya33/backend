@@ -1,0 +1,16 @@
+{
+  "name": "chai-or-baskend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run dev"
+  },
+  "keywords": [
+    "js",
+    "chai"
+  ],
+  "author": "mk",
+  "license": "ISC"
+}
